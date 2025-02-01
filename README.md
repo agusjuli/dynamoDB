@@ -1,0 +1,2 @@
+# dynamoDB
+Terraform dynamoDB
